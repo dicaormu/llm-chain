@@ -1,0 +1,11 @@
+langchain
+huggingface_hub
+sentence_transformers
+openai
+pypdf
+faiss-cpu
+PyPDF2
+accelerate
+youtube-transcript-api
+pytube
+wikipedia
